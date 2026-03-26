@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, me chamo Renan
 
-<!--
-**rnnascimento21/rnnascimento21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web em formação (Front-end + iniciando em Back-end)  
+🚀 Estudando JavaScript, Node.js e SQL  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º período)  
+🎯 Buscando minha primeira oportunidade na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Node.js (em aprendizado)  
+- SQL (Banco de dados)  
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 UrbanMarket  
+Projeto de e-commerce com carrinho de compras  
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark)
