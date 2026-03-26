@@ -28,6 +28,6 @@ Projeto de e-commerce com carrinho de compras
 
 ## 📊 Estatísticas
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rnnascimento21&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rnnascimento21&theme=tokyonight)
