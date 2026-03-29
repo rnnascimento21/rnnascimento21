@@ -27,18 +27,18 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   
   <br>
   
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas (CORRIGIDAS!)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 </div>
 
 ---
@@ -46,9 +46,10 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 ### 📌 Projetos em Destaque
 - **UrbanMarket:** Projeto de e-commerce completo .
 
-
 ---
 
 ### 📫 Contato
 - 📧 [renannascimentoilha@gmail.com](mailto:renannascimentoilha@gmail.com)
-- 👔 [Meu LinkedIn](www.linkedin.com/in/renan-nascimento-dev) .
+- 👔 [Meu LinkedIn](www.linkedin.com/in/renan-nascimento-dev) 
+
+---
