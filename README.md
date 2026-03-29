@@ -15,17 +15,23 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 ### 💻 Tecnologias & Ferramentas
 Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📌 Projetos em Destaque
-- **UrbanMarket:** Projeto de e-commerce completo com carrinho de compras.
-- *(Aqui você pode adicionar o sistema de contracheque que me contou)* -> **[Sistema de Gestão de Contracheques](link-do-repositorio):** Aplicação para armazenamento e organização de documentos por períodos.
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-%23000.svg?style=for-the-badge&logo=json&logoColor=white"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</div>
 
 ---
 
@@ -37,6 +43,12 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ---
 
+### 📌 Projetos em Destaque
+- **UrbanMarket:** Projeto de e-commerce completo .
+
+
+---
+
 ### 📫 Contato
 - 📧 [renannascimentoilha@gmail.com](mailto:renannascimentoilha@gmail.com)
-- 👔 [LinkedIn](link-do-seu-perfil-do-linkedin) (Adicione seu link personalizado aqui!)
+- 👔 [Meu LinkedIn](www.linkedin.com/in/renan-nascimento-dev) .
