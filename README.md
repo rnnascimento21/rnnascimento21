@@ -29,6 +29,8 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
   <img height="170" src="https://streak-stats.demolab.com?user=rnnascimento21&theme=tokyonight"/>
 
+  ![Snake animation](https://github.com/rnascimento21/rnascimento21/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
