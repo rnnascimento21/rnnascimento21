@@ -25,9 +25,9 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rnascimento21&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rnnascimento21&show_icons=true&theme=tokyonight"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=rnascimento21&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=rnnascimento21&theme=tokyonight"/>
 
 </div>
 
