@@ -23,10 +23,17 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rnascimento21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnascimento21&layout=compact&theme=tokyonight">
-</p>
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rnascimento21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=rnascimento21&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnascimento21&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+
+</div>
 
 ---
 
