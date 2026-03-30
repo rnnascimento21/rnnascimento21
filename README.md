@@ -41,7 +41,7 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ## 📬 Contato
 
-* 📧 [renannascimentolba@gmail.com](mailto:renannascimentolba@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/)
+* 📧 [renannascimentolba@gmail.com](mailto:renannascimentoilha@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/renan-nascimento-dev)
 
 ---
