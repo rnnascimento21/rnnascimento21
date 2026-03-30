@@ -21,18 +21,19 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas  
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rnnascimento21&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rnascimento21&show_icons=true&theme=tokyonight"/>
+  
+  <img height="160" src="https://streak-stats.demolab.com?user=rnascimento21&theme=tokyonight"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=rnnascimento21&theme=tokyonight"/>
+  <br><br>
 
-  ![Snake animation](https://github.com/rnascimento21/rnascimento21/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnascimento21&theme=tokyo-night"/>
 
 </div>
-
 ---
 
 ## 📌 Projetos em Destaque
