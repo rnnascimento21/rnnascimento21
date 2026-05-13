@@ -54,6 +54,7 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 ## 📌 Projetos em Destaque
 
 * 🛒 UrbanMarket: Projeto de e-commerce completo
+* 🌱 SustentaTech : Projeto de sustentabilidade completo.
 
 ---
 
