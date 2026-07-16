@@ -7,7 +7,7 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 ## 🚀 Sobre Mim
 
 * 💼 Estagiário na Prefeitura da Cidade do Rio de Janeiro
-* 🎓 ADS — 2º período
+* 🎓 ADS — 3º período
 * 🎯 JavaScript, Node.js e SQL
 * 💡 Apaixonado por tecnologia
 
