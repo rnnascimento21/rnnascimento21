@@ -33,13 +33,6 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!">
 </p>
 
----
-
-<br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnnascimento21&theme=tokyo-night"/>
-
-</div>
 
 ---
 
