@@ -55,17 +55,15 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&hide_border=true"
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rnnascimento21&theme=dark&hide_border=true"
+    alt="GitHub Streak"
   />
   <img
     height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
     alt="Linguagens mais usadas"
   />
 </div>
-
----
 
 ## 📌 Projetos em Destaque
 
