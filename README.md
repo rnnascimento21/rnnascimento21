@@ -24,7 +24,7 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 ## 💻 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,postgres,git,github,vscode&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,mysql,postgres,git,github,vscode,vercel&theme=dark">
 </p>
 
 ---
@@ -50,19 +50,21 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p align="center">
+<div align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&hide_border=true"
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&hide_border=true"
+    alt="Estatísticas do GitHub"
   />
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
+    alt="Linguagens mais usadas"
+  />
+</div>
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
 ---
 
 ## 📌 Projetos em Destaque
