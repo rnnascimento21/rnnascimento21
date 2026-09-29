@@ -1,0 +1,14 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: marcelo-r/github-readme-pacman@main
+        with:
+          github_user_name: rnnascimento21
