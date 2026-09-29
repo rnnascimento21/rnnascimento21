@@ -60,11 +60,11 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
   />
   <img
     height="180"
-    src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
     alt="Linguagens mais usadas"
   />
 </div>
-
+---
 ## 📌 Projetos em Destaque
 
 - 🛒 **UrbanMarket:** Projeto de e-commerce completo
