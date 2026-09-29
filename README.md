@@ -31,12 +31,10 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ## 👾 Contribuições (Pac-Man)
 
+## 👾 Contribuições (Pac-Man)
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-light.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman.svg" alt="Pac-Man Animation" />
 </p>
 
 ---
