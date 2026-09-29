@@ -50,19 +50,19 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ---
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&hide_border=true"
   />
+
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark&hide_border=true"
   />
 </p>
-
 ---
 
 ## 📌 Projetos em Destaque
