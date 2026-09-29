@@ -14,10 +14,10 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 ## 🚀 Sobre Mim
 
-* 💼 Estagiário na Prefeitura da Cidade do Rio de Janeiro
-* 🎓 ADS — 3º período
-* 🎯 JavaScript, Node.js e SQL
-* 💡 Apaixonado por tecnologia
+- 💼 Estagiário na Prefeitura da Cidade do Rio de Janeiro
+- 🎓 ADS — 3º período
+- 🎯 JavaScript, Node.js e SQL
+- 💡 Apaixonado por tecnologia
 
 ---
 
@@ -37,37 +37,48 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-contribution-graph-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-contribution-graph.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-contribution-graph.svg"
       alt="Pac-Man Contribution Graph"
     />
   </picture>
 </p>
+
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark"
+  />
 </p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-* 🛒 **UrbanMarket:** Projeto de e-commerce completo
-* 🌱 **SustentaTech:** Projeto de sustentabilidade completo
+- 🛒 **UrbanMarket:** Projeto de e-commerce completo
+- 🌱 **SustentaTech:** Projeto de sustentabilidade completo
 
 ---
 
 ## 📬 Contato
 
-* 📧 [renannascimentoilha@gmail.com](mailto:renannascimentoilha@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/renan-nascimento-dev)
+- 📧 [renannascimentoilha@gmail.com](mailto:renannascimentoilha@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/renan-nascimento-dev)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</p>
