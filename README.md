@@ -33,9 +33,9 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renan-nascimento-dev/renan-nascimento-dev/output/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renan-nascimento-dev/renan-nascimento-dev/output/pacman-light.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/renan-nascimento-dev/renan-nascimento-dev/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-light.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/rnnascimento21/rnnascimento21/output/pacman-dark.svg">
   </picture>
 </p>
 
@@ -44,8 +44,8 @@ Desenvolvedor Full Stack em formação, atualmente aplicando conhecimentos prát
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-nascimento-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-nascimento-dev&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnnascimento21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnnascimento21&layout=compact&theme=dark"/>
 </p>
 
 ---
